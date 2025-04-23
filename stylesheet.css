@@ -789,31 +789,45 @@ body {
   }
   
 }
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   .about-text{
     h2{
-      font-size: 16px;
+      font-size: 40px;
 
     }
     h4{
-      font-size: 12px;
+      font-size: 22px;
     }
     p{
-      font-size: 9px;
+      font-size: 12px;
     }
   }
   .contact-text{
     h2{
-      font-size: 16px;
+      font-size: 40px;
 
     }
     h4{
-      font-size: 12px;
+      font-size: 22px;
     }
     p{
-      font-size: 9px;
+      font-size: 16px;
     }
   }
+  .about-img img{
+    width: 140px;
+    height:140px;
+  }
+  .sub-title{
+    font-size: 40px;
+  }
+  .main-text{
+    h2{
+      font-size: 40px;
+    }
+  }
+ 
+ 
   
 }
 
